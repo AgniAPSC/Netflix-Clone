@@ -411,7 +411,7 @@ body {
 }
 
 .content-card::before {
-  content:",";
+  content:"Movie";
   position: absolute;
   top:0;
   left:0;
