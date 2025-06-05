@@ -394,19 +394,19 @@ body {
 
 /* button items */
 .play-btn::before {
-  content: "^;";
+  content: "▶️";
 }
 
 .check-btn::before {
-  content: ";";
+  content: "✔️";
 }
 
 .thumbs-btn::before {
-  content: "^;";
+  content: "👍";
 }
 
 .more-btn::before {
-  content: ">";
+  content: "🔻";
   font-size: 18px;
 }
 
